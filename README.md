@@ -44,7 +44,7 @@ Se ha implementado la personalización de la respuesta de los *endpoints* para o
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone [LINK_DEL_REPOSITORIO]
+    git clone https://github.com/Jefferson-BA/Gestor-de-Pacientes-proyecto-healthtrack_api-.git
     cd healthtrack_api
     ```
 

@@ -2,7 +2,7 @@
 
 ## 📝 Descripción del Proyecto
 
-**HealthTrack API** es una API RESTful desarrollada con **Django** y **Django REST Framework (DRF)** que permite la gestión centralizada de pacientes y la asignación de doctores. El objetivo principal es ofrecer un sistema robusto y modular para el control de registros médicos mediante el uso de endpoints HTTP.
+**HealthTrack API** es una API RESTful desarrollada con **Django** y **Django REST Framework (DRF)** que permite la gestión centralizada de pacientes y la asignación de doctores.
 
 ---
 
